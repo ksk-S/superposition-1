@@ -1,4 +1,0 @@
-MOTION_DIM = 2
-VISION_CHANNELS = 3
-SAVE_ROOT_DIR = 'data/data/'
-SAVE_DATA_NAME = 'data.h5'
